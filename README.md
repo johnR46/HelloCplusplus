@@ -4,4 +4,4 @@
 
 *MINGW  
 Command line  - >
-g++ -Wall -std=c++14 Main.cpp
+g++ -Wall -std=c++14 Main.cpp -o name.exe
