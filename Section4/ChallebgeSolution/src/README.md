@@ -10,7 +10,7 @@ Then read this number from the console.
 
 Suppose the user enters number 24 you want to display the following to the console.
 
-Amazing.
+Amazing .
 
 That's my favorite number too.
 

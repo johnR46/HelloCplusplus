@@ -9,5 +9,5 @@ int main()
 
     std::cout << "Amazing !! That's my favorite number too!" << std::endl;
 
-    return 0 ;
+    return  0 ;
 }

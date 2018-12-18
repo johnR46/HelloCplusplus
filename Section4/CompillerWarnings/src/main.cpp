@@ -7,5 +7,5 @@ int main()
     std::cout << favorite_number << std::endl;
 
    
-    return 0;
+    return  0;
 }

@@ -9,5 +9,5 @@ int main(){
 
     std::cout << x;
 
-    return 0;
+    return  0;
 }

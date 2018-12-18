@@ -19,7 +19,8 @@ if(favorite_number >=1 && favorite_number <= 100){
     ใช้ได้นะ เขียนยาวไปหน่อย  
     std::cout << "no really!!";
     std::cout << favorite_number;
-    std::cout << "is my favorite number!";
+    std::cout << "is my favorite number!
+    ";
     
 
 
