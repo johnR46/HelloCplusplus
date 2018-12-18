@@ -1,8 +1,8 @@
-#include<iostream>
-int main(){
+#include <iostream>
+int main()
+{
 
-    std::cout<<"Hello Project1" << std::endl;
+    std::cout << "Hello Project1" << std::endl;
 
-    return 0;
-
+    return   0;
 }
